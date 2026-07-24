@@ -168,3 +168,4 @@ while True:
 
     if nodes_prune < nodes_plain:
         print("Pruning was effective in reducing the number of nodes evaluated.")
+print("Thanks for playing!")
